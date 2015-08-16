@@ -1,0 +1,30 @@
+# vim:ft=quicktask
+
+Current Tasks:
+  - Include PayPal IPN on PayPal Express Checkout
+    @ Added [Tue 2013-08-06]
+  - I18N
+    @ Added [Tue 2013-08-06]
+  - RSS FEED
+    @ Added [Tue 2013-08-06]
+  - Administration
+    @ Added [Tue 2013-08-06]
+
+Completed Tasks:
+  - Update all policies and static stuff
+    @ Added [Tue 2013-08-06]
+    @ DONE [Wed 2013-08-07]
+  - Integrate PayPal Express Checkout
+    @ Added [Tue 2013-08-03]
+    @ DONE [Tue 2013-08-06]
+  - Add checkout option to pay with credit card
+    * This is not really important... it could be cool to have but not important
+    @ Added [Tue 2013-08-06]
+    @ DONE [Wed 2013-08-07]
+  - Get rid of icons of credit cards, only paypal and only if I don't implement 
+    other payments options (PayPal Payments Pro)
+    @ Added [Tue 2013-08-06]
+    @ DONE [Wed 2013-08-07]
+  - Add registration to the site
+    @ Added [Tue 2013-08-06]
+    @ DONE [Wed 2013-08-07]
